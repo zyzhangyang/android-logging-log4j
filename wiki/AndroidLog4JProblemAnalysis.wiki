@@ -1,5 +1,5 @@
 #labels android,log4j,log4j.properties,PropertyConfigurator,exception
-#Anyalysis Why Log4J is not wrking in Android
+Anyalysis why Log4J is not working in Android
 
 = Introduction =
 
